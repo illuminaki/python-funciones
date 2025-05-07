@@ -6,7 +6,7 @@
 
 Imagina que una función es como una **máquina expendedora**:
 
-```mermaid
+```bash
 flowchart LR
   A[Insertas monedas \n(parámetros)] --> B[Máquina \n(función)]
   B --> C[Procesa tu pedido \n(código)]
