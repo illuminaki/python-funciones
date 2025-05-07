@@ -160,7 +160,7 @@ resta(5, 2)  # Resultado: 3
 ```
 
 Los argumentos se asignan en el orden declarado:
-```mermaid
+```bash
 graph LR
   A[Llamada: func(1, 2)] --> B[Parámetro 1: a=1]
   A --> C[Parámetro 2: b=2]
